@@ -1,0 +1,21 @@
+.popup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    
+}
+.main{
+    border: 1px solid black;
+    padding: 30px;
+    width: 70%;
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.heading{
+    text-align: center;
+}
